@@ -20,6 +20,12 @@ Run this command in the root dir:
 > npm i -g
 ```
 
+then it is going to be availabe using this command:
+
+```
+> generatePassword
+```
+
 If you want to unlink it, run this command:
 
 ```
