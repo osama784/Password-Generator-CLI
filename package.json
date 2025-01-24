@@ -1,0 +1,19 @@
+{
+    "name": "password-generator",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "tsc && node dist/index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "@types/node": "^22.10.9",
+        "typescript": "^5.7.3"
+    },
+    "dependencies": {
+        "inquirer": "^12.3.2"
+    }
+}
