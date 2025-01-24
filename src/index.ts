@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import inquirer from "inquirer";
 import getPasswordLength from "./getPasswordLength";
 import getPasswordOptions from "./getPasswordOptions";
