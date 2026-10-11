@@ -7,6 +7,7 @@ Clone the project to your local computer:
 ```
 > git clone https://github.com/osama784/Password-Generator-CLI.git
 > cd Password-Generator-CLI
+> npm install
 > npm start
 ```
 
