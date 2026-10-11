@@ -20,7 +20,7 @@ Run this command in the root dir:
 > npm i -g
 ```
 
-then it is going to be availabe using this command:
+then it is going to be available using this command:
 
 ```
 > generatePassword
@@ -29,9 +29,9 @@ then it is going to be availabe using this command:
 If you want to unlink it, run this command:
 
 ```
-> npm uni -g password-generator
+> npm uninstall -g password-generator
 ```
 
-### Hope you get benefit from it ❤️
+### Hope you benefit from it ❤️
 
-### [My Portfolio](https://portfolio-osama784s-projects.vercel.app/) 😊
+### [My Portfolio](https://osamadoage.vercel.app/) 😊
